@@ -29,6 +29,11 @@
   
   
 <distributionManagement>
+  <repository>
+    <id>nexus</id>
+    <name>travel-app</name>
+    <url>http://3.109.1.29:8081/repository/travel-app/</url>
+  </repository>
    <snapshotRepository>
       <id>nexus</id>
       <url>http://3.109.1.29:8081/repository/travel-app/</url>
