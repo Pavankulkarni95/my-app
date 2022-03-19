@@ -7,7 +7,6 @@
 	<artifactId>myapp</artifactId>
 	<packaging>war</packaging>
 	<version>8.3.2</version>
-	<url>http://maven.apache.org</url>
 
   <name>travel-app</name>
   <!-- FIXME change it to the project's website -->
